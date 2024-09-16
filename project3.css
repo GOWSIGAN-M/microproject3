@@ -17,6 +17,10 @@ body{
     
 }
 
+h2{
+  font-family:Inter;
+}
+
 .calculator{
     position: absolute;
     display: grid;
